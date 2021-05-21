@@ -4,5 +4,9 @@ title: Team
 permalink: /team
 ---
 
-This website is *built* with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.
+**Manuela Tahay**  is a language instructor from Nahualá Sololá. She has taught K’iche’ language courses at the University of Kansas, The University of Texas at Austin, Vanderbilt University, and at Tulane University’s Summer Mayan Language Institute. 
+
+**Ignacio Carvajal** is assistant professor in the Department of Spanish and Portuguese at the University of Kansas. He is affiliate faculty at the Center for Latin American and Caribbean Studies and the Indigenous Studies Program.
+
+
 
