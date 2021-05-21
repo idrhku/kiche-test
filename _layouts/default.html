@@ -61,7 +61,7 @@ ga('send', 'pageview');
 
         <!-- Begin Menu -->
 
-            <ul class="navbar-nav ml-auto">
+  <!--           <ul class="navbar-nav ml-auto">
 
                 {% if page.url == "/" %}
                 <li class="nav-item active">
@@ -70,32 +70,14 @@ ga('send', 'pageview');
                 {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/index.html">Home</a>
                 </li>
-
-                <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
+-->
+              
+ <ul class="navbar-nav ml-auto">
+{% for link in site.data.navigation %}
+<li class="nav-item">
+                <a class="nav-link" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a>
                 </li>
-
-                <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/team">Team</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/lessons">Language Lessons</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/videos">Videos</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/events">Reflections</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/resources">Resources</a>
-                </li>
-                <li class="nav-item">
-                <a class="nav-link" href="{{ site.baseurl }}/feedback">Feedback</a>
-                </li>
-
-
-
+{% endfor %}
 
 
                 {% include search-lunr.html %}

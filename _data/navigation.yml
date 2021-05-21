@@ -1,0 +1,25 @@
+- title: Home
+  url: "/"
+
+- title: About
+  url: "/about"
+
+- title: Team
+  url: "/team"
+
+- title: Language Lessons
+  url: "/lessons"
+
+- title: Videos
+  url: "/videos"
+
+- title: Events
+  url: "/events"
+
+- title: Resources
+  url: "/resources"
+
+- title: Feedback
+  url: "/feedback"
+
+
