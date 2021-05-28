@@ -8,7 +8,7 @@ About
 
 From the Center is a Digital project that seeks to make a contribution to the study of the K’iche’ language and cultural production in Iximulew and Central America, including its diaspora. Its two main goals are the creation of a set of language lessons and a repository featuring teachers, intellectuals, and artists from the region. 
 
-#Acknowledgments 
+## Acknowledgments 
 
 We are grateful to the follwoing for their support of this project:
 
