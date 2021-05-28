@@ -4,7 +4,7 @@ title: Events
 permalink: /events
 ---
 
-![image](./assets/images/Nahuala_pic_41.jpg width="50" height= "75")
+![image](./assets/images/Technology_Flyer_2021.png)
 
 
 Technology, Education, Communication: Approaches from Abya Yala
