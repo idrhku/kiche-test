@@ -4,9 +4,11 @@ title: About Pa k'u'x
 permalink: /about
 ---
 
-This website is *built* with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.
+About
 
+From the Center is a Digital project that seeks to make a contribution to the study of the K’iche’ language and cultural production in Iximulew and Central America, including its diaspora. Its two main goals are the creation of a set of language lessons and a repository featuring teachers, intellectuals, and artists from the region. 
 
-Invaluable support for this project comes from the [Insitute for Digital Research in the Humanities at the University of Kansas](https://idrh.ku.edu/)
+If you are interested in contributing or have any feedback, please contact us
+
 
 ![image](./assets/images/Nahuala_pic_41.jpg)
